@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Gaurav Jawalkar .
-- 👋I'm a Full_Stack web developer
+- 👋 I'm a Full_Stack web developer / React Developer.
+- ✨ For Portfolio and CV do visit gauravjawalkar8@gmail.com
 - 👀 I’m interested in projects for web devlopment
 - 🌱 I’m currently learning Next js A React Framework
 - 💞️ I’m looking to collaborate on a project with you
