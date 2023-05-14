@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GauravJawalkar .
+- 👋 Hi, I’m @Gaurav Jawalkar .
 - 👋I'm a Full_Stack web developer
 - 👀 I’m interested in projects for web devlopment
 - 🌱 I’m currently learning Next js A React Framework
